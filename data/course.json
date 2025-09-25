@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "legacy_uid": "c4b86422-a816-f3db-d508-7e3698d7ef22",
+  "instructors": {
+    "content": [
+      "87033dcc-afcc-a2b3-74d4-87abae8d9f54",
+      "1619043a-517d-06ae-7e56-41fab57835ca"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c9c8f325-6e28-fa57-1ffc-7f7fa1bb8e6f",
+    "website": "21a-270-anthropology-through-speculative-fiction-fall-2009"
+  },
+  "course_title": "Anthropology Through Speculative Fiction",
+  "course_description": "This class examines how anthropology and speculative fiction (SF) each explore ideas about culture and society, technology, morality, and life in \"other\" worlds. We investigate this convergence of interest through analysis of SF in print, film, and other media. Concepts include traditional and contemporary anthropological topics, including first contact; gift exchange; gender, marriage, and kinship; law, morality, and cultural relativism; religion; race and embodiment; politics, violence, and war; medicine, healing, and consciousness; technology and environment. Thematic questions addressed in the class include: what is an alien? What is \"the human\"? Could SF be possible without anthropology?\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.270",
+  "course_image_thumbnail": {
+    "content": "24137cd9-5390-f504-3735-9793afcc97d9",
+    "website": "21a-270-anthropology-through-speculative-fiction-fall-2009"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "1e69aac3-41d3-41e1-b368-553d62b92618",
+  "site_short_id": "21a.270-fall-2009",
+  "site_url_path": "courses/21a-270-anthropology-through-speculative-fiction-fall-2009",
+  "title": "Course Metadata"
+}
