@@ -46,6 +46,6 @@ Card, Orson Scott. _Ender’s Game_. New York, NY: Tor, 1991. ISBN: 978081255070
 
 Le Guin, Ursula. _The Left Hand of Darkness_. New York, NY: Ace, 1969.
 
-Huxley, Aldous. _[Brave New World](http://www.huxley.net/bnw/)_. New York, NY: Harper, 2006. ISBN: 9780060850524.
+Huxley, Aldous. _{{% resource_link "ebee7409-af39-4c7b-87f7-3d0978838563" "Brave New World" %}}_. New York, NY: Harper, 2006. ISBN: 9780060850524.
 
 Butler, Octavia. _Dawn_. New York, NY: Warner, 1987. ISBN: 9780445205161. \[Currently available in _Lilith’s Brood_. New York, NY: Grand Central Publishing, 2000. ISBN: 9780446676106.\]
