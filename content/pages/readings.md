@@ -161,7 +161,7 @@ Gant-Britton, Lisbeth. "Exploring Color Coding at the Beginning and End of the T
 Genesis, Eugenesis, Morphogenesis, Xenogenesis
 {{< tdclose >}}{{< tdopen >}}
 
-[*Brave New World*](http://www.huxley.net/bnw/), all.
+{{% resource_link "ebee7409-af39-4c7b-87f7-3d0978838563" "*Brave New World*" %}}, all.
 
 *Dawn*, all.
 
@@ -183,7 +183,7 @@ Jameson, Fredric. "The Alien Body." In *Archaeologies of the Future: The Desire 
 
 Stover, Leon E. "Anthropology and Science Fiction." *Current Anthropology* 14 (October 1973): 471-474.
 
-Bloom, Julie. "[Nigeria Says 'District 9' Is Not Welcome](http://www.nytimes.com/2009/09/21/movies/21arts-NIGERIASAYSD_BRF.html)*." New York Times*, September 20, 2009.
+Bloom, Julie. "{{% resource_link "0f456b96-e9f9-4bcb-a24b-1c0c199a9525" "Nigeria Says 'District 9' Is Not Welcome" %}}*." New York Times*, September 20, 2009.
 
 ### Organ Transplant
 
